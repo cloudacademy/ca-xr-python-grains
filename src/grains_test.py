@@ -2,8 +2,6 @@ import unittest
 
 from grains import square, total
 
-# Tests adapted from `problem-specifications//canonical-data.json`
-
 
 class GrainsTest(unittest.TestCase):
     def test_1(self):
